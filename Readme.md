@@ -32,8 +32,3 @@ After run docker commands you can access to endpoints:
 ```shell
 curls -XGET http://localhost:3031
 ```
-
-## Copyright
-
-Released under the Apache License 2.0. See
-the [LICENSE](https://github.com/codecentric/springboot-sample-app/blob/master/LICENSE) file.
